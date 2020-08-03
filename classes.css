@@ -59,7 +59,10 @@ hr {
 .right {
     float: right;
 }
-
+div.clear { 
+    clear:both;
+    font-size: 1%;
+}
 /*Header*/
 
 header h1 {
